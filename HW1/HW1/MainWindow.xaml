@@ -1,0 +1,29 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HW1"
+        mc:Ignorable="d"
+        Title="Action" Height="450" Width="659.099" >
+    <StackPanel Orientation ="Horizontal" HorizontalAlignment="Left" Width="689">
+        <StackPanel Width="200" Background="#6eb440">
+            <Label Content="Avatar" Foreground="White" FontSize="18" HorizontalContentAlignment="Center" />
+        </StackPanel>
+        <StackPanel  Width ="150">
+            <TextBox Background="#aed892" BorderBrush="Black" Height="210" Text="Clash of the Titans" Foreground="White" TextWrapping="Wrap" FontSize="18" HorizontalContentAlignment="Center"/>
+            <TextBox Background="#aed892" BorderBrush="Black" Height="210" Text="Robin Hood" Foreground="White" TextWrapping="Wrap" FontSize="18" HorizontalContentAlignment="Center"/>
+        </StackPanel>
+        <StackPanel Width ="150">
+            <TextBox Background="#aed892" BorderBrush="Black" Height="140" Text="The Expendables" Foreground="White" TextWrapping="Wrap" FontSize="18" HorizontalContentAlignment="Center"/>
+            <TextBox Background="#aed892" BorderBrush="Black" Height="140" Text="Red" Foreground="White" FontSize="18" TextWrapping="Wrap" HorizontalContentAlignment="Center"/>
+            <TextBox Background="#aed892" BorderBrush="Black" Height="140" Text="Dinner for Schmucks" Foreground="White" TextWrapping="Wrap" FontSize="18" HorizontalContentAlignment="Center"/>
+        </StackPanel>
+        <StackPanel Width ="150">
+            <TextBox Background="#aed892" BorderBrush="Black" Height="140" Text="The Book of Eli" Foreground="White" TextWrapping="Wrap" FontSize="18" HorizontalContentAlignment="Center"/>
+            <TextBox Background="#aed892" BorderBrush="Black" Height="140" Text="Sherlock Holmes" Foreground="White" FontSize="18" TextWrapping="Wrap" HorizontalContentAlignment="Center"/>
+            <TextBox Background="#aed892" BorderBrush="Black" Height="140" Text="The Bounty Hunter" Foreground="White" FontSize="18" TextWrapping="Wrap" HorizontalContentAlignment="Center"/>
+        </StackPanel>
+        
+    </StackPanel>
+</Window>

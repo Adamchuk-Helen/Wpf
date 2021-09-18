@@ -1,0 +1,17 @@
+C:\Users\Lena\source\repos\HW1\HW1\bin\Debug\HW1.exe.config
+C:\Users\Lena\source\repos\HW1\HW1\bin\Debug\HW1.exe
+C:\Users\Lena\source\repos\HW1\HW1\bin\Debug\HW1.pdb
+C:\Users\Lena\source\repos\HW1\HW1\bin\Debug\HW1.xml
+C:\Users\Lena\source\repos\HW1\HW1\obj\Debug\HW1.vbproj.AssemblyReference.cache
+C:\Users\Lena\source\repos\HW1\HW1\obj\Debug\MainWindow.g.vb
+C:\Users\Lena\source\repos\HW1\HW1\obj\Debug\Application.g.vb
+C:\Users\Lena\source\repos\HW1\HW1\obj\Debug\HW1_MarkupCompile.cache
+C:\Users\Lena\source\repos\HW1\HW1\obj\Debug\HW1_MarkupCompile.lref
+C:\Users\Lena\source\repos\HW1\HW1\obj\Debug\MainWindow.baml
+C:\Users\Lena\source\repos\HW1\HW1\obj\Debug\HW1.g.resources
+C:\Users\Lena\source\repos\HW1\HW1\obj\Debug\HW1.Resources.resources
+C:\Users\Lena\source\repos\HW1\HW1\obj\Debug\HW1.vbproj.GenerateResource.cache
+C:\Users\Lena\source\repos\HW1\HW1\obj\Debug\HW1.vbproj.CoreCompileInputs.cache
+C:\Users\Lena\source\repos\HW1\HW1\obj\Debug\HW1.exe
+C:\Users\Lena\source\repos\HW1\HW1\obj\Debug\HW1.xml
+C:\Users\Lena\source\repos\HW1\HW1\obj\Debug\HW1.pdb

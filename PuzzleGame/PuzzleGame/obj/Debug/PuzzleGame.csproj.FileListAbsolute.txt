@@ -1,0 +1,10 @@
+C:\Users\Lena\source\repos\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+C:\Users\Lena\source\repos\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe
+C:\Users\Lena\source\repos\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.pdb
+C:\Users\Lena\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.AssemblyReference.cache
+C:\Users\Lena\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.PazzleForm.resources
+C:\Users\Lena\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+C:\Users\Lena\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\Lena\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\Lena\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.exe
+C:\Users\Lena\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.pdb

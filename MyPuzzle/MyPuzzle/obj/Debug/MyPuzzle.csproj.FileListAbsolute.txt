@@ -1,0 +1,10 @@
+C:\Users\Lena\source\repos\MyPuzzle\MyPuzzle\bin\Debug\MyPuzzle.exe.config
+C:\Users\Lena\source\repos\MyPuzzle\MyPuzzle\bin\Debug\MyPuzzle.exe
+C:\Users\Lena\source\repos\MyPuzzle\MyPuzzle\bin\Debug\MyPuzzle.pdb
+C:\Users\Lena\source\repos\MyPuzzle\MyPuzzle\obj\Debug\MyPuzzle.csproj.AssemblyReference.cache
+C:\Users\Lena\source\repos\MyPuzzle\MyPuzzle\obj\Debug\MyPuzzle.Form1.resources
+C:\Users\Lena\source\repos\MyPuzzle\MyPuzzle\obj\Debug\MyPuzzle.Properties.Resources.resources
+C:\Users\Lena\source\repos\MyPuzzle\MyPuzzle\obj\Debug\MyPuzzle.csproj.GenerateResource.cache
+C:\Users\Lena\source\repos\MyPuzzle\MyPuzzle\obj\Debug\MyPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Lena\source\repos\MyPuzzle\MyPuzzle\obj\Debug\MyPuzzle.exe
+C:\Users\Lena\source\repos\MyPuzzle\MyPuzzle\obj\Debug\MyPuzzle.pdb
