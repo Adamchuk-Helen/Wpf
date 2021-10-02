@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,6 +79,54 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Новая папка\pb1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Новая папка\pb2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Новая папка\pb3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Новая папка\pb4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Новая папка\pb5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Новая папка\pb6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Новая папка\pb7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Новая папка\pb8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Новая папка\pb9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Новая папка\pb10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Новая папка\pb11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Новая папка\pb12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Новая папка\pb13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Новая папка\pb14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Новая папка\pb15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Новая папка\pb16.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

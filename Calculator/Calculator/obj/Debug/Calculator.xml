@@ -1,0 +1,93 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Calculator
+</name>
+</assembly>
+<members>
+<member name="T:Calculator.My.MyWpfExtension">
+ <summary>
+ Модуль определения свойств, доступных в My Namespace для WPF
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Calculator.My.MyWpfExtension.Application">
+ <summary>
+ Возвращает объект приложения для запущенного приложения
+ </summary>
+</member>
+<member name="P:Calculator.My.MyWpfExtension.Computer">
+ <summary>
+ Возвращает информацию о главном компьютере.
+ </summary>
+</member>
+<member name="P:Calculator.My.MyWpfExtension.User">
+ <summary>
+ Возвращает информацию для текущего пользователя.  Если вы хотите запустить приложение с текущими 
+ учетными данными пользователя Windows, вызовите My.User.InitializeWithWindowsUser().
+ </summary>
+</member>
+<member name="P:Calculator.My.MyWpfExtension.Log">
+ <summary>
+ Возвращает журнал приложения. При помощи файла конфигурации приложения можно настроить прослушиватели.
+ </summary>
+</member>
+<member name="P:Calculator.My.MyWpfExtension.Windows">
+ <summary>
+ Возвращает коллекцию окон, определенных в проекте.
+ </summary>
+</member>
+<member name="T:Calculator.My.Resources.Resources">
+<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member>
+<member name="P:Calculator.My.Resources.Resources.ResourceManager">
+<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member>
+<member name="P:Calculator.My.Resources.Resources.Culture">
+<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member>
+<member name="P:Calculator.My.Resources.Resources.images">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Calculator.My.Resources.Resources.pngtree_vector_leftward_arrow_icon_png_image_925605">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Calculator.Application">
+<summary>
+Application
+</summary>
+</member>
+<member name="M:Calculator.Application.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:Calculator.Application.Main">
+<summary>
+Application Entry Point.
+</summary>
+</member>
+<member name="T:Calculator.MainWindow">
+<summary>
+MainWindow
+</summary>
+</member>
+<member name="M:Calculator.MainWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

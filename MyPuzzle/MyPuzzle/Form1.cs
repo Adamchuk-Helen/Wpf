@@ -20,77 +20,77 @@ namespace MyPuzzle
        
         private void Form1_Load(object sender, EventArgs e)
         {
-            PictureBox [] pb = new PictureBox [16];
-            int y = 0;
-
-            
-            for (int i = 0; i<16; i++)
-            {
-                if (i < 4)
-                {
-                    PictureBox pb1 = new PictureBox();
-                    pb1.Location = new Point(pb1.Location.X + (i * 90), pb1.Location.Y + y);
-                    pb1.BorderStyle = BorderStyle.Fixed3D;
-                    pb1.Name = "pbox" + i;
-                    pb1.Height = 90;
-                    pb1.Width = 90;
-                    pb1.AllowDrop = true;
-                    pb1.DragDrop += new DragEventHandler(pictureBox17_DragDrop);
-                    pb1.DragDrop += new DragEventHandler(pictureBox17_DragEnter);
-                    pb1.MouseDown += pictureBox1_MouseDown;
-                    pb[i] = pb1;
-                    Controls.AddRange(pb);
-                }
-                else if (i >= 4 && i < 8)
-                {
-                    y = 90;
-                    PictureBox pb1 = new PictureBox();
-                    pb1.Location = new Point(pb1.Location.X + (i * 90)-360, pb1.Location.Y + y);
-                    pb1.BorderStyle = BorderStyle.Fixed3D;
-                    pb1.Name = "pbox" + i;
-                    pb1.Height = 90;
-                    pb1.Width = 90;
-                    pb1.AllowDrop = true;
-                    pb1.DragDrop += pictureBox17_DragDrop;
-                    pb1.DragDrop += pictureBox17_DragEnter;
-                    pb[i] = pb1;
-                    Controls.AddRange(pb);
-                }
-                else if (i >= 8 && i < 12)
-                {
-                    y = 180;
-                    PictureBox pb1 = new PictureBox();
-                    pb1.Location = new Point(pb1.Location.X + (i * 90) - 720, pb1.Location.Y + y);
-                    pb1.BorderStyle = BorderStyle.Fixed3D;
-                    pb1.Name = "pbox" + i;
-                    pb1.Height = 90;
-                    pb1.Width = 90;
-                    pb1.AllowDrop = true;
-                    pb1.DragDrop += pictureBox17_DragDrop;
-                    pb1.DragDrop += pictureBox17_DragEnter;
-                    pb[i] = pb1;
-                    Controls.AddRange(pb);
-                }
-                else if (i >= 12 && i < 16)
-                {
-                    y = 270;
-                    PictureBox pb1 = new PictureBox();
-                    pb1.Location = new Point(pb1.Location.X + (i * 90) - 1080, pb1.Location.Y + y);
-                    pb1.BorderStyle = BorderStyle.Fixed3D;
-                    pb1.Name = "pbox" + i;
-                    pb1.Height = 90;
-                    pb1.Width = 90;
-                    pb1.AllowDrop = true;
-                    pb1.DragDrop += pictureBox17_DragDrop;
-                    pb1.DragDrop += pictureBox17_DragEnter;
-                    pb[i] = pb1;
-                    Controls.AddRange(pb);
-                }
-
-                
+            //PictureBox [] pb = new PictureBox [16];
+            //int y = 0;
 
 
-            }
+            //for (int i = 0; i<16; i++)
+            //{
+            //    if (i < 4)
+            //    {
+            //        PictureBox pb1 = new PictureBox();
+            //        pb1.Location = new Point(pb1.Location.X + (i * 90), pb1.Location.Y + y);
+            //        pb1.BorderStyle = BorderStyle.Fixed3D;
+            //        pb1.Name = "pbox" + i;
+            //        pb1.Height = 90;
+            //        pb1.Width = 90;
+            //        pb1.AllowDrop = true;
+            //        pb1.DragDrop += new DragEventHandler(pictureBox17_DragDrop);
+            //        pb1.DragDrop += new DragEventHandler(pictureBox17_DragEnter);
+            //        pb1.MouseDown += pictureBox1_MouseDown;
+            //        pb[i] = pb1;
+            //        Controls.AddRange(pb);
+            //    }
+            //    else if (i >= 4 && i < 8)
+            //    {
+            //        y = 90;
+            //        PictureBox pb1 = new PictureBox();
+            //        pb1.Location = new Point(pb1.Location.X + (i * 90)-360, pb1.Location.Y + y);
+            //        pb1.BorderStyle = BorderStyle.Fixed3D;
+            //        pb1.Name = "pbox" + i;
+            //        pb1.Height = 90;
+            //        pb1.Width = 90;
+            //        pb1.AllowDrop = true;
+            //        pb1.DragDrop += pictureBox17_DragDrop;
+            //        pb1.DragDrop += pictureBox17_DragEnter;
+            //        pb[i] = pb1;
+            //        Controls.AddRange(pb);
+            //    }
+            //    else if (i >= 8 && i < 12)
+            //    {
+            //        y = 180;
+            //        PictureBox pb1 = new PictureBox();
+            //        pb1.Location = new Point(pb1.Location.X + (i * 90) - 720, pb1.Location.Y + y);
+            //        pb1.BorderStyle = BorderStyle.Fixed3D;
+            //        pb1.Name = "pbox" + i;
+            //        pb1.Height = 90;
+            //        pb1.Width = 90;
+            //        pb1.AllowDrop = true;
+            //        pb1.DragDrop += pictureBox17_DragDrop;
+            //        pb1.DragDrop += pictureBox17_DragEnter;
+            //        pb[i] = pb1;
+            //        Controls.AddRange(pb);
+            //    }
+            //    else if (i >= 12 && i < 16)
+            //    {
+            //        y = 270;
+            //        PictureBox pb1 = new PictureBox();
+            //        pb1.Location = new Point(pb1.Location.X + (i * 90) - 1080, pb1.Location.Y + y);
+            //        pb1.BorderStyle = BorderStyle.Fixed3D;
+            //        pb1.Name = "pbox" + i;
+            //        pb1.Height = 90;
+            //        pb1.Width = 90;
+            //        pb1.AllowDrop = true;
+            //        pb1.DragDrop += pictureBox17_DragDrop;
+            //        pb1.DragDrop += pictureBox17_DragEnter;
+            //        pb[i] = pb1;
+            //        Controls.AddRange(pb);
+            //    }
+
+
+
+
+            //}
             pictureBox1.AllowDrop = true;
             pictureBox2.AllowDrop = true;
             pictureBox3.AllowDrop = true;
@@ -107,8 +107,27 @@ namespace MyPuzzle
             pictureBox14.AllowDrop = true;
             pictureBox15.AllowDrop = true;
             pictureBox16.AllowDrop = true;
+            pb1.AllowDrop = true;
+            pb2.AllowDrop = true;
+            pb3.AllowDrop = true;
+            pb4.AllowDrop = true;
+            pb5.AllowDrop = true;
+            pb6.AllowDrop = true;
+            pb7.AllowDrop = true;
+            pb8.AllowDrop = true;
+            pb9.AllowDrop = true;
+            pb10.AllowDrop = true;
+            pb11.AllowDrop = true;
+            pb12.AllowDrop = true;
+            pb13.AllowDrop = true;
+            pb14.AllowDrop = true;
+            pb15.AllowDrop = true;
+            pb16.AllowDrop = true;
+
 
         }
+        int step = 0;
+        int truestep = 0;
 
         private void Pb1_MouseDown(object sender, MouseEventArgs e)
         {
@@ -124,6 +143,15 @@ namespace MyPuzzle
         {
             var pb = sender as PictureBox;
             pb.Image = (Bitmap)e.Data.GetData(DataFormats.Bitmap, true);
+            var picture = (string)e.Data.GetData(DataFormats.StringFormat);
+            step++;
+
+            if (pb.Name==picture)
+            {
+                truestep++;
+                this.Name = Convert.ToString(truestep);
+            }
+
         }
 
         private void pictureBox17_DragEnter(object sender, DragEventArgs e)
@@ -133,6 +161,7 @@ namespace MyPuzzle
             if (e.Data.GetDataPresent(DataFormats.Bitmap) && (e.AllowedEffect & DragDropEffects.Move) != 0)
             {
                 e.Effect = DragDropEffects.Move;
+                
             }
             else 
             {
@@ -155,6 +184,7 @@ namespace MyPuzzle
                 if (fileName.Length > 0)
                 {
                     myPB.Image = Image.FromFile(fileName[0]);
+
                 }
             }
         }

@@ -1,0 +1,17 @@
+C:\Users\Lena\source\repos\Calculator\Calculator\obj\Debug\Calculator.vbproj.AssemblyReference.cache
+C:\Users\Lena\source\repos\Calculator\Calculator\obj\Debug\Application.g.vb
+C:\Users\Lena\source\repos\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\Lena\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Lena\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Lena\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Lena\source\repos\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\Lena\source\repos\Calculator\Calculator\obj\Debug\MainWindow.g.vb
+C:\Users\Lena\source\repos\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\Lena\source\repos\Calculator\Calculator\obj\Debug\MainWindow.baml
+C:\Users\Lena\source\repos\Calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\Lena\source\repos\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\Lena\source\repos\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Users\Lena\source\repos\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Lena\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Lena\source\repos\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\Lena\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
