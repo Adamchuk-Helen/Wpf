@@ -1,0 +1,44 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+       
+            <TabControl >
+            <TabItem Header="First tab">
+                <StackPanel Orientation="Horizontal">
+                    <ComboBox x:Name="cbColor" Width="70" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top">
+                    <ComboBoxItem>
+                        <StackPanel Orientation ="Horizontal">
+                            <Ellipse Width =" 20" Height="20" Fill="Red"/>
+                            <TextBlock Text="Red"/>
+                        </StackPanel>
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        <StackPanel Orientation ="Horizontal">
+                            <Ellipse Width =" 20" Height="20" Fill="Green"/>
+                            <TextBlock Text="Green"/>
+                        </StackPanel>
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        <StackPanel Orientation ="Horizontal">
+                            <Ellipse Width =" 20" Height="20" Fill="Blue"/>
+                            <TextBlock Text="Blue"/>
+                        </StackPanel>
+                    </ComboBoxItem>
+
+                </ComboBox>
+                    <ComboBox x:Name="cb2" Width="70"  Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" />
+                    <InkCanvas x:Name="Canva"/>
+                    </StackPanel>
+            </TabItem>
+            <TabItem Header="Second tab">
+            </TabItem>
+        </TabControl>
+        
+    </Grid>
+</Window>

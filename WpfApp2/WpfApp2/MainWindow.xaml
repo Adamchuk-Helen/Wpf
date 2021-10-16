@@ -1,0 +1,43 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid PreviewMouseDown="ButtonClick">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="395*"/>
+            <ColumnDefinition Width="397*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="211*"/>
+            <RowDefinition Height="208*"/>
+        </Grid.RowDefinitions>
+        <StackPanel >
+            <Border  PreviewMouseDown="ButtonClick" Margin =" 10" Background="Red" Width=" 180" Height="180" >
+
+                <Button  PreviewMouseDown="ButtonClick" Margin="10"  Background="Aqua" IsHitTestVisible="True">
+                    <Label Margin=" 10" Background="Yellow" Width="100" Height ="100"
+                               HorizontalContentAlignment="Center"
+                               VerticalContentAlignment="Center"
+                           PreviewMouseDown="ButtonClick"
+                           >
+
+                        OK
+                    </Label>
+                </Button>
+
+            </Border>
+        </StackPanel>
+        <ListBox Grid.Column="1" Background="Aqua" x:Name="btClick">
+        </ListBox>
+        <ListBox Grid.Row="1" ButtonBase.Click="rbClick">
+            <RadioButton Content="Red"/>
+            <RadioButton Content="Blue"/>
+            <RadioButton Content="Orange"/>
+            <RadioButton Content="Green"/>
+        </ListBox>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\Lena\source\repos\News\News\bin\Debug\News.exe.config
+C:\Users\Lena\source\repos\News\News\bin\Debug\News.exe
+C:\Users\Lena\source\repos\News\News\bin\Debug\News.pdb
+C:\Users\Lena\source\repos\News\News\obj\Debug\News.csproj.AssemblyReference.cache
+C:\Users\Lena\source\repos\News\News\obj\Debug\MainWindow.g.cs
+C:\Users\Lena\source\repos\News\News\obj\Debug\App.g.cs
+C:\Users\Lena\source\repos\News\News\obj\Debug\News_MarkupCompile.cache
+C:\Users\Lena\source\repos\News\News\obj\Debug\News_MarkupCompile.lref
+C:\Users\Lena\source\repos\News\News\obj\Debug\MainWindow.baml
+C:\Users\Lena\source\repos\News\News\obj\Debug\News.g.resources
+C:\Users\Lena\source\repos\News\News\obj\Debug\News.Properties.Resources.resources
+C:\Users\Lena\source\repos\News\News\obj\Debug\News.csproj.GenerateResource.cache
+C:\Users\Lena\source\repos\News\News\obj\Debug\News.csproj.CoreCompileInputs.cache
+C:\Users\Lena\source\repos\News\News\obj\Debug\News.exe
+C:\Users\Lena\source\repos\News\News\obj\Debug\News.pdb

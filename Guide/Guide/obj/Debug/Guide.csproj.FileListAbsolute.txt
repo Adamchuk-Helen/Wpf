@@ -1,0 +1,10 @@
+C:\Users\Lena\source\repos\Guide\Guide\obj\Debug\Guide.csproj.AssemblyReference.cache
+C:\Users\Lena\source\repos\Guide\Guide\obj\Debug\Guide.Form1.resources
+C:\Users\Lena\source\repos\Guide\Guide\obj\Debug\Guide.Properties.Resources.resources
+C:\Users\Lena\source\repos\Guide\Guide\obj\Debug\Guide.csproj.GenerateResource.cache
+C:\Users\Lena\source\repos\Guide\Guide\obj\Debug\Guide.csproj.CoreCompileInputs.cache
+C:\Users\Lena\source\repos\Guide\Guide\bin\Debug\Guide.exe.config
+C:\Users\Lena\source\repos\Guide\Guide\bin\Debug\Guide.exe
+C:\Users\Lena\source\repos\Guide\Guide\bin\Debug\Guide.pdb
+C:\Users\Lena\source\repos\Guide\Guide\obj\Debug\Guide.exe
+C:\Users\Lena\source\repos\Guide\Guide\obj\Debug\Guide.pdb
