@@ -1,0 +1,24 @@
+﻿<Window x:Class="AutoRun.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AutoRun"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="470" Width="500">
+
+            <StackPanel>
+        <ListBox Height="350" x:Name="listBox1" >
+            <ListBox.Resources >
+                
+                </ListBox.Resources>
+
+        </ListBox>
+        <StackPanel Orientation="Horizontal">
+            <Button Height="40" Width="200" Margin="20" Content="Запустити" Click="OpenFile">
+                </Button>
+            <Button Height="40" Width="200" Margin="20" Content="Зупинити" Click="DeleteFile">
+            </Button>
+        </StackPanel>
+        </StackPanel>
+</Window>

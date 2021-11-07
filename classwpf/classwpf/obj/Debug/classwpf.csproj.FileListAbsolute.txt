@@ -1,0 +1,16 @@
+C:\Users\Lena\source\repos\classwpf\classwpf\bin\Debug\classwpf.exe.config
+C:\Users\Lena\source\repos\classwpf\classwpf\bin\Debug\classwpf.exe
+C:\Users\Lena\source\repos\classwpf\classwpf\bin\Debug\classwpf.pdb
+C:\Users\Lena\source\repos\classwpf\classwpf\obj\Debug\classwpf.csproj.AssemblyReference.cache
+C:\Users\Lena\source\repos\classwpf\classwpf\obj\Debug\MainWindow.g.cs
+C:\Users\Lena\source\repos\classwpf\classwpf\obj\Debug\App.g.cs
+C:\Users\Lena\source\repos\classwpf\classwpf\obj\Debug\classwpf_MarkupCompile.cache
+C:\Users\Lena\source\repos\classwpf\classwpf\obj\Debug\classwpf_MarkupCompile.lref
+C:\Users\Lena\source\repos\classwpf\classwpf\obj\Debug\MainWindow.baml
+C:\Users\Lena\source\repos\classwpf\classwpf\obj\Debug\classwpf.g.resources
+C:\Users\Lena\source\repos\classwpf\classwpf\obj\Debug\classwpf.Properties.Resources.resources
+C:\Users\Lena\source\repos\classwpf\classwpf\obj\Debug\classwpf.csproj.GenerateResource.cache
+C:\Users\Lena\source\repos\classwpf\classwpf\obj\Debug\classwpf.csproj.CoreCompileInputs.cache
+C:\Users\Lena\source\repos\classwpf\classwpf\obj\Debug\classwpf.exe
+C:\Users\Lena\source\repos\classwpf\classwpf\obj\Debug\classwpf.pdb
+C:\Users\Lena\source\repos\classwpf\classwpf\obj\Debug\GeneratedInternalTypeHelper.g.cs

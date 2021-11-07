@@ -1,0 +1,15 @@
+C:\Users\Lena\source\repos\AutoRun\AutoRun\bin\Debug\AutoRun.exe.config
+C:\Users\Lena\source\repos\AutoRun\AutoRun\bin\Debug\AutoRun.exe
+C:\Users\Lena\source\repos\AutoRun\AutoRun\bin\Debug\AutoRun.pdb
+C:\Users\Lena\source\repos\AutoRun\AutoRun\obj\Debug\AutoRun.csproj.AssemblyReference.cache
+C:\Users\Lena\source\repos\AutoRun\AutoRun\obj\Debug\MainWindow.g.cs
+C:\Users\Lena\source\repos\AutoRun\AutoRun\obj\Debug\App.g.cs
+C:\Users\Lena\source\repos\AutoRun\AutoRun\obj\Debug\AutoRun_MarkupCompile.cache
+C:\Users\Lena\source\repos\AutoRun\AutoRun\obj\Debug\AutoRun_MarkupCompile.lref
+C:\Users\Lena\source\repos\AutoRun\AutoRun\obj\Debug\MainWindow.baml
+C:\Users\Lena\source\repos\AutoRun\AutoRun\obj\Debug\AutoRun.g.resources
+C:\Users\Lena\source\repos\AutoRun\AutoRun\obj\Debug\AutoRun.Properties.Resources.resources
+C:\Users\Lena\source\repos\AutoRun\AutoRun\obj\Debug\AutoRun.csproj.GenerateResource.cache
+C:\Users\Lena\source\repos\AutoRun\AutoRun\obj\Debug\AutoRun.csproj.CoreCompileInputs.cache
+C:\Users\Lena\source\repos\AutoRun\AutoRun\obj\Debug\AutoRun.exe
+C:\Users\Lena\source\repos\AutoRun\AutoRun\obj\Debug\AutoRun.pdb
