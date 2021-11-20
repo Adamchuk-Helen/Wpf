@@ -1,0 +1,7 @@
+C:\Users\Lena\source\repos\AsyncClient1\AsyncClient1\bin\Debug\AsyncClient1.exe.config
+C:\Users\Lena\source\repos\AsyncClient1\AsyncClient1\bin\Debug\AsyncClient1.exe
+C:\Users\Lena\source\repos\AsyncClient1\AsyncClient1\bin\Debug\AsyncClient1.pdb
+C:\Users\Lena\source\repos\AsyncClient1\AsyncClient1\obj\Debug\AsyncClient1.csproj.AssemblyReference.cache
+C:\Users\Lena\source\repos\AsyncClient1\AsyncClient1\obj\Debug\AsyncClient1.csproj.CoreCompileInputs.cache
+C:\Users\Lena\source\repos\AsyncClient1\AsyncClient1\obj\Debug\AsyncClient1.exe
+C:\Users\Lena\source\repos\AsyncClient1\AsyncClient1\obj\Debug\AsyncClient1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lena\source\repos\MyDll\FileLibrary\bin\Debug\FileLibrary.dll
+C:\Users\Lena\source\repos\MyDll\FileLibrary\bin\Debug\FileLibrary.pdb
+C:\Users\Lena\source\repos\MyDll\FileLibrary\obj\Debug\FileLibrary.csproj.AssemblyReference.cache
+C:\Users\Lena\source\repos\MyDll\FileLibrary\obj\Debug\FileLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Lena\source\repos\MyDll\FileLibrary\obj\Debug\FileLibrary.dll
+C:\Users\Lena\source\repos\MyDll\FileLibrary\obj\Debug\FileLibrary.pdb

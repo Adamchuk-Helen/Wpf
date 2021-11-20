@@ -1,0 +1,8 @@
+C:\Users\Lena\source\repos\MyDll\MyDll\obj\Debug\netcoreapp3.1\MyDll.AssemblyInfoInputs.cache
+C:\Users\Lena\source\repos\MyDll\MyDll\obj\Debug\netcoreapp3.1\MyDll.AssemblyInfo.cs
+C:\Users\Lena\source\repos\MyDll\MyDll\obj\Debug\netcoreapp3.1\MyDll.csproj.CoreCompileInputs.cache
+C:\Users\Lena\source\repos\MyDll\MyDll\bin\Debug\netcoreapp3.1\MyDll.deps.json
+C:\Users\Lena\source\repos\MyDll\MyDll\bin\Debug\netcoreapp3.1\MyDll.dll
+C:\Users\Lena\source\repos\MyDll\MyDll\bin\Debug\netcoreapp3.1\MyDll.pdb
+C:\Users\Lena\source\repos\MyDll\MyDll\obj\Debug\netcoreapp3.1\MyDll.dll
+C:\Users\Lena\source\repos\MyDll\MyDll\obj\Debug\netcoreapp3.1\MyDll.pdb

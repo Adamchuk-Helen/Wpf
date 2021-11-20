@@ -1,0 +1,7 @@
+C:\Users\Lena\source\repos\ExamDLL\ForDll\bin\Debug\ForDll.exe.config
+C:\Users\Lena\source\repos\ExamDLL\ForDll\bin\Debug\ForDll.exe
+C:\Users\Lena\source\repos\ExamDLL\ForDll\bin\Debug\ForDll.pdb
+C:\Users\Lena\source\repos\ExamDLL\ForDll\obj\Debug\ForDll.csproj.CoreCompileInputs.cache
+C:\Users\Lena\source\repos\ExamDLL\ForDll\obj\Debug\ForDll.exe
+C:\Users\Lena\source\repos\ExamDLL\ForDll\obj\Debug\ForDll.pdb
+C:\Users\Lena\source\repos\ExamDLL\ForDll\obj\Debug\ForDll.csproj.CopyComplete
