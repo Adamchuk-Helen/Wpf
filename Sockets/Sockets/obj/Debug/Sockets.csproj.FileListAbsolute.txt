@@ -1,6 +1,0 @@
-C:\Users\Lena\source\repos\Sockets\Sockets\bin\Debug\Sockets.exe.config
-C:\Users\Lena\source\repos\Sockets\Sockets\bin\Debug\Sockets.exe
-C:\Users\Lena\source\repos\Sockets\Sockets\bin\Debug\Sockets.pdb
-C:\Users\Lena\source\repos\Sockets\Sockets\obj\Debug\Sockets.csproj.CoreCompileInputs.cache
-C:\Users\Lena\source\repos\Sockets\Sockets\obj\Debug\Sockets.exe
-C:\Users\Lena\source\repos\Sockets\Sockets\obj\Debug\Sockets.pdb
