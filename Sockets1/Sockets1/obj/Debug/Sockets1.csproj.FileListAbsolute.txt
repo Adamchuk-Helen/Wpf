@@ -1,0 +1,7 @@
+C:\Users\Lena\source\repos\Sockets1\Sockets1\bin\Debug\Sockets1.exe.config
+C:\Users\Lena\source\repos\Sockets1\Sockets1\bin\Debug\Sockets1.exe
+C:\Users\Lena\source\repos\Sockets1\Sockets1\bin\Debug\Sockets1.pdb
+C:\Users\Lena\source\repos\Sockets1\Sockets1\obj\Debug\Sockets1.csproj.AssemblyReference.cache
+C:\Users\Lena\source\repos\Sockets1\Sockets1\obj\Debug\Sockets1.csproj.CoreCompileInputs.cache
+C:\Users\Lena\source\repos\Sockets1\Sockets1\obj\Debug\Sockets1.exe
+C:\Users\Lena\source\repos\Sockets1\Sockets1\obj\Debug\Sockets1.pdb

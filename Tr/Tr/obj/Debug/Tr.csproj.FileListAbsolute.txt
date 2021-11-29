@@ -1,0 +1,15 @@
+C:\Users\Lena\source\repos\Tr\Tr\bin\Debug\Tr.exe.config
+C:\Users\Lena\source\repos\Tr\Tr\bin\Debug\Tr.exe
+C:\Users\Lena\source\repos\Tr\Tr\bin\Debug\Tr.pdb
+C:\Users\Lena\source\repos\Tr\Tr\obj\Debug\Tr.csproj.AssemblyReference.cache
+C:\Users\Lena\source\repos\Tr\Tr\obj\Debug\MainWindow.g.cs
+C:\Users\Lena\source\repos\Tr\Tr\obj\Debug\App.g.cs
+C:\Users\Lena\source\repos\Tr\Tr\obj\Debug\Tr_MarkupCompile.cache
+C:\Users\Lena\source\repos\Tr\Tr\obj\Debug\Tr_MarkupCompile.lref
+C:\Users\Lena\source\repos\Tr\Tr\obj\Debug\MainWindow.baml
+C:\Users\Lena\source\repos\Tr\Tr\obj\Debug\Tr.g.resources
+C:\Users\Lena\source\repos\Tr\Tr\obj\Debug\Tr.Properties.Resources.resources
+C:\Users\Lena\source\repos\Tr\Tr\obj\Debug\Tr.csproj.GenerateResource.cache
+C:\Users\Lena\source\repos\Tr\Tr\obj\Debug\Tr.csproj.CoreCompileInputs.cache
+C:\Users\Lena\source\repos\Tr\Tr\obj\Debug\Tr.exe
+C:\Users\Lena\source\repos\Tr\Tr\obj\Debug\Tr.pdb
